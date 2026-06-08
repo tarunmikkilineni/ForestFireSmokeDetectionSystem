@@ -1,0 +1,2 @@
+Source: Smoke & Fire Detection (YOLO) — based on the D-Fire dataset
+ Kaggle: https://www.kaggle.com/datasets/sayedgamal99/smoke-fire-detection-yolo. 
